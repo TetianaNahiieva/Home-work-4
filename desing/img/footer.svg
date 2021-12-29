@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 45" width="45" height="45">
+	<title>header</title>
+	<defs>
+		<image  width="14" height="8" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAICAMAAAD+zz7+AAAAAXNSR0IB2cksfwAAAHJQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////BjDohgAAACZ0Uk5TBoAABwvGrAMErsUOzKUCrcsU1pcBnxzgh5DfJeh4eSQ58/I4RkXiMpTWAAAAVElEQVR4nEXKVw6AIBRE0ceIFSsiNuy6/y0qQeP83JxkiBjhnceIuB+ETlGccIJIs9wqLEqB51nJWgGqkRUsodsO6AcNR4xmms2Cj1i3/cBPnJfrDb0IA762WiPIAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: none;stroke: #ffffff;stroke-width: 2 } 
+	</style>
+	<g id="header">
+		<g id="cont">
+			<g id="footer">
+				<path id="bg" class="s0" d="m22.5 0c12.43 0 22.5 10.07 22.5 22.5c0 12.43-10.07 22.5-22.5 22.5c-12.43 0-22.5-10.07-22.5-22.5c0-12.43 10.07-22.5 22.5-22.5z" />
+				<use id="#" href="#img1" x="16" y="19" />
+			</g>
+		</g>
+	</g>
+</svg>
